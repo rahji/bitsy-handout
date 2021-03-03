@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:800');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:700');    
+
+body {
+  font: 10pt/12pt 'Open Sans';
+  widows: 2; orphans: 2;
+}
+
+a { color: black; text-decoration: underline;}
+
+h1 { 
+    font: 24pt 'Montserrat';
+    color: #3a3a3a;
+    column-span: all;
+}
+h2 {
+    font: 14pt 'Roboto';
+}
+
+.blubox { font-size:24px; color:#557ebf; }
+.redbox { font-size:24px; color:#ea4535; }
+.yelbox { font-size:24px; color:#f9bc15; }
+.grebox { font-size:24px; color:#36a852; }
+.orabox { font-size:24px; color:#f36e21; }
