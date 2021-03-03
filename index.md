@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+[Handout](https://rahji.github.io/bitsy-handout/web)
