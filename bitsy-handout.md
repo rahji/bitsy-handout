@@ -11,7 +11,7 @@ Link to this handout: <https://github.com/rahji/bitsy-handout>
 
 ## Beginner Tutorials
 
-* A super basic intro from the Video Game Museum <https://thenvm.org/wp-content/uploads/2020/09/GettingStartedwithBitsy.pdf>
+* A super basic intro from the Video Game Museum <https://github.com/rahji/bitsy-handout/blob/main/archive/GettingStartedwithBitsy.pdf>
 * Clair Morwood's tutorial <https://www.shimmerwitch.space/bitsyTutorial.html>
 * Slides from nywf talk <https://static1.squarespace.com/static/58930a6c893fc0a33ae624db/t/5bacd94ac83025ead3937071/1538054510407/BITSY-WORKSHOP.pdf> includes information about adding audio and some links to games
 * Bitsy Wiki <https://bitsy.fandom.com/wiki/Bitsy_Wiki>
@@ -89,7 +89,3 @@ Link to this handout: <https://github.com/rahji/bitsy-handout>
 ## Miscellaneous Links
 
 * Calendar of all game jams <https://itch.io/jams>
-
-## Maybe Not Useful?
-
-* Spritesy Sprite drawing tool <https://pansandpots.itch.io/spritesy> doesn't seem to work
