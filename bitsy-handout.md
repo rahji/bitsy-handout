@@ -8,11 +8,9 @@ permalink: /web/
 
 Link to this handout: <https://github.com/rahji/bitsy-handout>
 
-Link to the Bitsy 8 editor: <https://ledoux.itch.io/bitsy>  
-Link to the Bitsy 7 editor: <https://bit.ly/oldbitsy>
+Link to the Bitsy 8 editor: <https://ledoux.itch.io/bitsy> (and a link to the old Bitsy 7 editor <https://bit.ly/oldbitsy>)
 
-*Bitsy 8 adds features like sound and music, but the editor has some bugs currently.  
-I recommend using Bitsy 7 for now.*
+*Bitsy 8 adds features like sound and music, but the editor has some bugs currently. Also some of the stuff below won't work in version 8. I recommend using Bitsy 7 for now.*
 
 ## Beginner Tutorials
 
@@ -49,11 +47,10 @@ I recommend using Bitsy 7 for now.*
 * Pixlart <https://www.pixilart.com/> is a drawing tool for tiles and sprites. There's even a mobile app
 * Draw a grid of tiles with Pixlart (above) and use Tilesy <https://ruin.itch.io/tilesy> to turn them into Bitsy tiles!
 
-<div style="page-break-after: always;"></div>
-
 ## Discussion
 
-* It all happens in the Bitsy Talk discord server <https://discord.com/invite/9rAjhtr>
+* It used to happen in the (now read-only) Bitsy Talk discord server: <https://discord.com/invite/9rAjhtr>
+* Official discussion now happens in the itch.io community: <https://ledoux.itch.io/bitsy/community>
 
 ## Writing About Bitsy
 
