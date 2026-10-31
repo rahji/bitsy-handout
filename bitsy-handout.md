@@ -16,9 +16,9 @@ Link to the Bitsy 8 editor: <https://ledoux.itch.io/bitsy> (and a link to the ol
 
 * A super basic intro from the Video Game Museum <https://github.com/rahji/bitsy-handout/blob/main/archive/GettingStartedwithBitsy.pdf>
 * Clair Morwood's tutorial <https://www.shimmerwitch.space/bitsyTutorial.html>
-* Slides from nywf talk <https://static1.squarespace.com/static/58930a6c893fc0a33ae624db/t/5bacd94ac83025ead3937071/1538054510407/BITSY-WORKSHOP.pdf> includes information about adding audio and some links to games
+* Slides from nywf talk <https://golancourses.net/60120/wp-content/uploads/2023/03/BITSY-WORKSHOP.pdf> includes information about adding audio and some links to games
 * Bitsy Wiki <https://bitsy.fandom.com/wiki/Bitsy_Wiki>
-* A workshop worksheet <https://zeroday.camp/wp-content/uploads/2018/09/Bitsy-Guides.pdf>
+* A workshop worksheet <https://zeroday.camp/wp-content/uploads/2025/03/Bitsy-Guides.pdf>
 
 ## More Tutorials
 
@@ -41,7 +41,7 @@ Link to the Bitsy 8 editor: <https://ledoux.itch.io/bitsy> (and a link to the ol
 * Fontsy <https://seansleblanc.itch.io/fontsy> allows you to edit the default Bitsy font
 * Adding background sound to a game <https://candle.itch.io/bitsy-audio>
   * A web interface to the Bitsy muse hack (which can be found in Sean's Bitsy hacks) <https://kool.tools/bitsy/tools/bitsymuse-ui/> also allows *per room* audio
-* Tracery tutorial <http://www.crystalcodepalace.com/traceryTut.html> for algorithmically generating text/dialogue (see also Sean's Bitsy Hacks)
+* [Tracery](https://github.com/galaxykate/tracery) tutorial <https://web.archive.org/web/20230408064434/http://www.crystalcodepalace.com/traceryTut.html> for algorithmically generating text/dialogue (see also Sean's Bitsy Hacks)
 * Sean Leblanc's page <https://seansleblanc.itch.io/> includes a list of other tools they've made for Bitsy
 * Bitsy Dungeon Tiles <https://enui.itch.io/bitsy-dungeon-tiles> free-to-use tiles for a dungeon game
 * Pixlart <https://www.pixilart.com/> is a drawing tool for tiles and sprites. There's even a mobile app
