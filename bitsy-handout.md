@@ -6,11 +6,11 @@ permalink: /web/
 
 # A BITSY HANDOUT
 
-Link to this handout: <https://github.com/rahji/bitsy-handout>
+Link to this handout's GitHub repo: <https://github.com/rahji/bitsy-handout>
 
 Link to the Bitsy 8 editor: <https://ledoux.itch.io/bitsy> (and a link to the old Bitsy 7 editor <https://bit.ly/oldbitsy>)
 
-*Bitsy 8 adds features like sound and music, but the editor has some bugs currently. Also some of the stuff below won't work in version 8. I recommend using Bitsy 7 for now.*
+*Bitsy 8 adds features like sound and music, but the editor had some bugs the last time I checked. Also some of the stuff below won't work in version 8.*
 
 ## Beginner Tutorials
 
